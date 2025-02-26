@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DkTHysM+4qR7y5we6YUl2mlDrCVIM0TVE6BGqUaKWwc=",
+  "Source": "DotNetRESTfulAPI",
+  "BasePath": "_content/DotNetRESTfulAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
