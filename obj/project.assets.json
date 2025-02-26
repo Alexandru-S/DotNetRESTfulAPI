@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rubberDuck\\Documents\\DotNetRESTfulAPI\\DotNetRESTfulAPI.csproj",
+      "projectUniqueName": "C:\\Users\\rubberDuck\\Desktop\\DotNetRESTfulAPI\\DotNetRESTfulAPI.csproj",
       "projectName": "DotNetRESTfulAPI",
-      "projectPath": "C:\\Users\\rubberDuck\\Documents\\DotNetRESTfulAPI\\DotNetRESTfulAPI.csproj",
+      "projectPath": "C:\\Users\\rubberDuck\\Desktop\\DotNetRESTfulAPI\\DotNetRESTfulAPI.csproj",
       "packagesPath": "C:\\Users\\rubberDuck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rubberDuck\\Documents\\DotNetRESTfulAPI\\obj\\",
+      "outputPath": "C:\\Users\\rubberDuck\\Desktop\\DotNetRESTfulAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rubberDuck\\AppData\\Roaming\\NuGet\\NuGet.Config"
