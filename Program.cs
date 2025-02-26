@@ -1,4 +1,5 @@
 using Microsoft.OpenApi.Models;
+using HotelStore.DB;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -17,5 +18,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.MapGet("/", () => "Hello World!");
+app.MapGet("/hotel/{id}", (int id) => HotelDB.GetHotel(id));
+app.MapGet("/hotel", () => HotelDB.GetHotels());
+app.MapPost("/hotel", (Hotel hotel) => HotelDB.CreateHotel(hotel));
+app.MapPut("/hotel", (Hotel hotel) => HotelDB.UpdateHotel(hotel));
+app.MapDelete("/hotel/{id}", (int id) => HotelDB.RemoveHotel(id));
 
 app.Run();
