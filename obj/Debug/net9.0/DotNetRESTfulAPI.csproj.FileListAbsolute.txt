@@ -55,3 +55,10 @@ C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\obj\Debug\net9.0\refint\DotNetRESTf
 C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\obj\Debug\net9.0\DotNetRESTfulAPI.pdb
 C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\obj\Debug\net9.0\DotNetRESTfulAPI.genruntimeconfig.cache
 C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\obj\Debug\net9.0\ref\DotNetRESTfulAPI.dll
+C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\obj\Debug\net9.0\DotNetRESTfulAPI.csproj.AssemblyReference.cache
+C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\obj\Debug\net9.0\DotNetRESTfulAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rubberDuck\Desktop\DotNetRESTfulAPI\obj\Debug\net9.0\DotNetRE.83130F8D.Up2Date
